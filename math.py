@@ -8,6 +8,6 @@ for letter in prefixes:
     if letter == "A":
         print suffix
     elif letter == "Q":
-        print "u" + suffix 
+        print letter + "u" + suffix 
     else:
         print letter + suffix
